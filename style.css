@@ -1,0 +1,31 @@
+body {color: black;}
+
+#first{ color: red;}
+
+#second{ color: blue;}
+
+#third{ color: green;}
+
+p {text-align: center;
+    color: black;}
+
+h1 { text-align: center;
+    font-family: verdana;}
+
+#bigText {font-size: 30px;}
+
+#smallText {font-size: 10px;}
+
+#p1{ text-align: center;}
+
+#p2{ font-weight: bold;}
+
+#p3{ font-family: Verdana;}
+
+#p4{ font-weight: bold;
+     color : orange;  
+     font-size: 25px;      }
+
+.styledFont{ text-decoration: underline; }
+
+.fontColor {color:black;}
